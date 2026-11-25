@@ -1,3 +1,0 @@
-CloudDrop selftest
-written at 2026-11-25 11:18:41
-this file proves the repository -> local path works
